@@ -1,13 +1,13 @@
-h2{
-    color: red;
+body{
     
+}
+
+h2{
+    color: blue;
   }
   
-  h1{
-    font-size: 4em;
-    background-color: aquamarine;     
-    color: blue;
-    border-color: black;
-    border-style: dashed;
-  }
+h1{
+    font-size: 4em;     
+    color: red;
+}
   
